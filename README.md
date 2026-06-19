@@ -17,6 +17,13 @@ The analysis uses publicly available threat intelligence, MITRE ATT&CK mappings,
 - Cyber Operation Lifecycle
 - Threat Actor Analysis
 
+## Key Findings
+
+- FIN7 demonstrated a highly organized cybercrime operation targeting financial gain.
+- The group leveraged phishing campaigns, persistence mechanisms, and ransomware deployment to compromise victims.
+- MITRE ATT&CK mapping revealed recurring patterns across multiple stages of the attack lifecycle.
+- Defensive controls focused on phishing resistance, endpoint monitoring, and behavioral detection can help mitigate similar threats.
+
 ## Skills Demonstrated
 
 - Threat actor research
@@ -28,4 +35,4 @@ The analysis uses publicly available threat intelligence, MITRE ATT&CK mappings,
 
 ## Files
 
-- FIN7 Threat Intelligence Case Study (PDF)
+- [FIN7 Threat Intelligence Case Study (PDF)](FIN7_Threat_Intelligence_Case_Study.pdf)
