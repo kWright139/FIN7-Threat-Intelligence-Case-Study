@@ -33,6 +33,12 @@ The analysis uses publicly available threat intelligence, MITRE ATT&CK mappings,
 - Cybersecurity reporting
 - OSINT-based research
 
+## Author
+
+Katie Wright
+
+Cybersecurity graduate | CompTIA Security+ | Threat Intelligence & SOC Analyst Candidate
+
 ## Files
 
 - [FIN7 Threat Intelligence Case Study (PDF)](FIN7_Threat_Intelligence_Case_Study.pdf)
